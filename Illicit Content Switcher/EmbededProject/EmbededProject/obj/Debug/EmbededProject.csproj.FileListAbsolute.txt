@@ -1,0 +1,10 @@
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\bin\Debug\EmbededProject.exe.config
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\bin\Debug\EmbededProject.exe
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\bin\Debug\EmbededProject.pdb
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.csproj.AssemblyReference.cache
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.Form1.resources
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.Properties.Resources.resources
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.csproj.GenerateResource.cache
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.exe
+C:\Users\baile\source\repos\EmbededProject\EmbededProject\obj\Debug\EmbededProject.pdb
